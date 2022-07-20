@@ -1,0 +1,24 @@
+{
+  "name": "kanconvit-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eskimo220/kanconvit-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eskimo220/kanconvit-clone/issues"
+  },
+  "homepage": "https://github.com/eskimo220/kanconvit-clone#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "helmet": "^5.1.0"
+  }
+}
